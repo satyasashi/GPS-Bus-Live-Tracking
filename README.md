@@ -1,4 +1,4 @@
-# GPS-Transport-locator
+# GPS-Bus-Live-Tracking
 
 The basic Idea is to let users know Where the Public transport Buses are and how far they are from their location. Initially the thought was to put GPS tracker for every bus, but after talking to #Nivesh and talked about his idea as well, he seems to be right. So, the bus driver will be having his mobile and details 
 
